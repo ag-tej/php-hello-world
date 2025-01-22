@@ -1,4 +1,4 @@
-<!-- test for github actions -->
+<!-- second test for github actions -->
 
 <?php
 require_once __DIR__ . '/src/HelloInterface.php';
