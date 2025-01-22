@@ -1,3 +1,5 @@
+<!-- test for github actions -->
+
 <?php
 require_once __DIR__ . '/src/HelloInterface.php';
 require_once __DIR__ . '/src/Hello.php';
